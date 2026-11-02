@@ -19,6 +19,15 @@ Flutter skills.
 - Favourites
 - Profile
 
+## Screenshots
+
+<p align="center">
+  <img src="mobile-sample/Screenshot-1.png" width="22%" alt="Screenshot 1" />
+  <img src="mobile-sample/Screenshot-2.png" width="22%" alt="Screenshot 2" />
+  <img src="mobile-sample/Screenshot-3.png" width="22%" alt="Screenshot 3" />
+  <img src="mobile-sample/Screenshot-4.png" width="22%" alt="Screenshot 4" />
+</p>
+
 ## Tech stack so far
 
 | Area | Library |
